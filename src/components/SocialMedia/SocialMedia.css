@@ -1,0 +1,22 @@
+ul{
+    width: 100%;
+
+}
+
+li {
+    list-style: none;
+    margin-bottom: 1rem;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+    background-color: var(--Grey);
+    padding: 0.8em 2em;
+    display: block;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 0.875rem;
+    
+
+}

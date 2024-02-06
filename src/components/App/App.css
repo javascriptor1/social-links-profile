@@ -1,0 +1,17 @@
+main {
+  background-color: var(--Dark-Grey);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 38px;
+  border-radius: 16px;
+  gap: 1rem;
+  min-width: 330px;
+}
+
+
+@media (min-width:768px){
+  main{
+    min-width: 380px;
+  }
+}
